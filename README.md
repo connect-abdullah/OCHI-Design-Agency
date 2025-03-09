@@ -3,7 +3,7 @@
 A modern and minimalistic **React & Tailwind CSS** project replicating the Ochi website's sleek design and smooth animations. It features **Framer Motion** for dynamic effects and an elegant UI for a premium user experience. 🚀
 
 ## 🚀 Live Demo
-[Ochi | Design Agency](https://ochify.netlify.app)
+[Ochi | Design Agency](https://ochi-design-web.vercel.app/)
 
 ## 📂 Project Setup
 Clone the repository and install dependencies:
