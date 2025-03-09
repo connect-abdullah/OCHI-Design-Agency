@@ -48,8 +48,5 @@ npm run format
 netlify deploy
 ```
 
-## 📸 Screenshots
-(Add screenshots of your project here)
-
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
