@@ -1,4 +1,4 @@
-# Ochi Clone
+# Ochi Design Agency
 
 A modern and minimalistic **React & Tailwind CSS** project replicating the Ochi website's sleek design and smooth animations. It features **Framer Motion** for dynamic effects and an elegant UI for a premium user experience. 🚀
 
